@@ -6,9 +6,9 @@
 return array(
 	'default' => array(
 		'connection'  => array(
-			'dsn'        => 'mysql:host=10.0.0.222;dbname=hospital',
+			'dsn'        => 'mysql:host=localhost;dbname=fuel_dev',
 			'username'   => 'root',
-			'password'   => '',
+			'password'   => 'root',
 		),
 	),
 );
